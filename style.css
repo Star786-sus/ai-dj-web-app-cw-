@@ -1,0 +1,53 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.speed
+{
+    float: left;
+}
+
+#speed_heading, #volume_heading
+{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.speed_image , .volume_image
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume
+{
+    float: right;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+span
+{
+    font-size: 15px;   
+}
+
+canvas
+{
+    border: 5px double lime;
+    border-spacing: 15px;
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 70px;
+}
